@@ -1,0 +1,32 @@
+body{
+    font-size:
+}
+
+li {
+    list-style: none;
+}
+
+#logo {
+    max-width: 1.75em;
+}
+
+.btn{
+    background-color: #e74c3c;
+    border: none;
+}
+.iconRed{
+    color: #e74c3c;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.firstContainer{
+    background-color: #e6e6e6;
+}
+
+.processIcons {
+    width: 10rem;
+}
+
+.inputForm {
+   width: 
+}
